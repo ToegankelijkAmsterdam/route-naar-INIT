@@ -264,5 +264,25 @@
       },
       "id": 11
     }
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "description": "De Rumphiusstraat is afgesloten",
+        "title": "Rumphiusstraat is dicht",
+        "stroke": "",
+        "stroke-width": "",
+        "stroke-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.930462546246872,
+          52.37125375092029
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    }
   ]
 }
