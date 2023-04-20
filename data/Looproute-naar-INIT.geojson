@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Stap uit op de halte 1e Coehoornstraat en loop naar de kop van de halte.",
+        "title": "1. tramhalte 1e Coehoornstraat",
+        "stroke": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.926263783136392,
+          52.36810168638007
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Ga bij de zebra linksaf de trambaan en fietspad over.  ",
+        "title": "2. bij de zebra linksaf"
+      },
+      "geometry": {
+        "coordinates": [
+          4.926347827645827,
+          52.368153652339004
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Ga na de zebra rechtsaf en loop ongeveer 15m in de Czaar Peterstraat.",
+        "title": "3. rechtsaf "
+      },
+      "geometry": {
+        "coordinates": [
+          4.926220165098556,
+          52.36823354988121
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#000000",
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Sla linksaf en loop ongeveer 40m de Eerste Coehoornstraat in. ",
+        "title": "4. linksaf"
+      },
+      "geometry": {
+        "coordinates": [
+          4.926349955354425,
+          52.36831539599444
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Sla rechtsaf bij het Oostenburgerpark. Steek het fietspad over en loop langs een heg aan je rechterhand de Conradstraat in. Volg de stoep op de Conradstraat. ",
+        "title": "5. rechtsaf"
+      },
+      "geometry": {
+        "coordinates": [
+          4.926001333155256,
+          52.368527582033096
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Ga bij de 4e onderbreking (na 140m) linksaf de Cruquiusstraat in.",
+        "title": "6. linksaf"
+      },
+      "geometry": {
+        "coordinates": [
+          4.927494887987621,
+          52.369469987547205
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Ga na 40m het voetgangers- en fietsbruggetje over. Volg daarna de stoep van betonplaten. Sla na ruim 20m bij de de eerste kruising rechtsaf.",
+        "title": "7. bruggetje"
+      },
+      "geometry": {
+        "coordinates": [
+          4.92701508819863,
+          52.36974133864004
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Loop de Willem Parelstraat uit (130m). Je passeert één zijstraat.  ",
+        "title": "8. rechtsaf Willem Parelstraat"
+      },
+      "geometry": {
+        "coordinates": [
+          4.926446215277792,
+          52.37002749186169
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Na het volgende huizenblok kom je bij de Jacob Bontiusplaats. Aan de overkant is het INIT gebouw. Let op: trap en helling",
+        "title": "9. trap en helling"
+      },
+      "geometry": {
+        "coordinates": [
+          4.92779772645568,
+          52.37085980954052
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0008ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "description": "Looproute tramhalte 1e Coehoornstraat naar ingang INIT gebouw",
+        "marker-size": "",
+        "title": "Looproute naar INIT"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.9262632549724685,
+            52.368101363174475
+          ],
+          [
+            4.926350061911336,
+            52.368152427653854
+          ],
+          [
+            4.926218960132246,
+            52.36823261499413
+          ],
+          [
+            4.926351131508397,
+            52.36831494557765
+          ],
+          [
+            4.926001334281381,
+            52.36852731944475
+          ],
+          [
+            4.927494658119201,
+            52.36946745307634
+          ],
+          [
+            4.927005398387848,
+            52.36974568766493
+          ],
+          [
+            4.926445768554686,
+            52.37002670015343
+          ],
+          [
+            4.927798806696188,
+            52.370857809205035
+          ],
+          [
+            4.92796694024085,
+            52.370960462692864
+          ],
+          [
+            4.92764677910921,
+            52.371153962635645
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Steek de Jacob Bontiusplaats over en loop linksaf langs de gevel naar de ingang van het INIT gebouw (ongeveer 40m).",
+        "title": "10. linksaf langs gevel INIT"
+      },
+      "geometry": {
+        "coordinates": [
+          4.927965831537165,
+          52.37096061286317
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#787878",
+        "marker-size": "small",
+        "description": "Jacob Bontiusplaats 9. De hoofdingang van het INIT gebouw is rechts.",
+        "title": "11. ingang INIT",
+        "stroke-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.9276506345091775,
+          52.37115305493211
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    }
+  ]
+}
