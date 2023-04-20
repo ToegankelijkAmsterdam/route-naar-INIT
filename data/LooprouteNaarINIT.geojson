@@ -9,7 +9,8 @@
         "description": "Stap uit op de halte 1e Coehoornstraat en loop naar de kop van de halte.",
         "title": "1. tramhalte 1e Coehoornstraat",
         "stroke": "",
-        "marker-symbol": "rail-light"
+        "marker-symbol": "rail-light",
+        "marker-symbolcolor": "#ff0000"
       },
       "geometry": {
         "coordinates": [
@@ -61,7 +62,11 @@
         "marker-color": "#787878",
         "marker-size": "small",
         "description": "Sla linksaf en loop ongeveer 40m de Eerste Coehoornstraat in. ",
-        "title": "4. linksaf in 1e Coehoornstraat (40m)"
+        "title": "4. linksaf in 1e Coehoornstraat (40m)",
+        "stroke-width": "",
+        "marker-symbol": "",
+        "stroke-opacity": "",
+        "marker-symbolcolor": "#ff0000"
       },
       "geometry": {
         "coordinates": [
@@ -78,7 +83,8 @@
         "marker-color": "#787878",
         "marker-size": "small",
         "description": "Sla rechtsaf bij het Oostenburgerpark. Steek het fietspad over en loop langs een heg aan je rechterhand de Conradstraat in. Volg de stoep op de Conradstraat. ",
-        "title": "5. rechtsaf bij Oostenburgerpark"
+        "title": "5. rechtsaf bij Oostenburgerpark",
+        "marker-symbolcolor": ""
       },
       "geometry": {
         "coordinates": [
@@ -147,7 +153,8 @@
         "marker-size": "small",
         "description": "Na het volgende huizenblok kom je bij de Jacob Bontiusplaats. Aan de overkant is het INIT gebouw. Let op: trap en helling",
         "title": "9. trap en helling",
-        "marker-symbol": "caution"
+        "marker-symbol": "caution",
+        "marker-symbolcolor": "#ff0000"
       },
       "geometry": {
         "coordinates": [
@@ -245,7 +252,8 @@
         "description": "Jacob Bontiusplaats 9. De hoofdingang van het INIT gebouw is rechts.",
         "title": "11. ingang INIT",
         "stroke-opacity": "",
-        "marker-symbol": "building"
+        "marker-symbol": "building",
+        "marker-symbolcolor": "#ff0000"
       },
       "geometry": {
         "coordinates": [
